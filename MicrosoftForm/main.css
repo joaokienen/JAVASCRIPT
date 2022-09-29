@@ -1,0 +1,225 @@
+body {
+  background: rgb(232,212,205);
+  background: linear-gradient(300deg, rgba(232,212,205,1) 4%, rgba(215,226,215,1) 18%, rgba(227,225,222,1) 40%, rgba(214,226,213,1) 61%, rgba(221,223,214,1) 76%, rgba(229,220,216,1) 92%);
+}
+
+
+.ContainerSrc0 {
+    background-color: #FFFFFF;
+    width: 480px;
+    height: 400px;
+    margin: 10% auto;
+    box-shadow: 1px 2px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+
+.ContainerMedia0 {
+  padding-top: 40px;
+  padding-left: 40px;
+  margin: 0 auto;
+}
+
+
+.ContainerLab0{
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 25px; 
+  display: block;
+  margin-left: 45px;
+  font-weight: 600;
+  color: #1B1B1B;
+}
+.ContainerLab1{
+  font-family: 'Segoe UI', sans-serif;
+  font-weight: 400;
+  color: #1B1B1B;
+}
+.ContainerLab2{
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 25px; 
+  display: block;
+  margin-left: 45px;
+  font-weight: 600;
+  color: #1B1B1B;
+}
+
+
+.ContainerInput0 {
+ font-family: 'Segoe UI', sans-serif;
+ font-size: 17px; 
+  opacity: 0.8;
+ margin-left: 45px;
+ padding: 10px 0px 5px 1px; 
+ border: none;
+ outline: 0;
+ border-bottom: 1px solid #000;
+ width: 80%;
+  background: transparent;
+  font-weight: 400;
+}
+.ContainerInput1 {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 17px; 
+  opacity: 0.8;
+  margin-left: 45px;
+  padding: 10px 0px 5px 1px; 
+  border: none;
+  outline: 0;
+  border-bottom: 1px solid #000;
+  width: 80%;
+  background: transparent;
+  font-weight: 400;
+}
+
+
+.ContainerDiv0 {
+  padding: 0px 0px 5px 1px; 
+}
+.ContainerDiv2 {
+  display: none;
+}
+
+
+.ContainerDiv1Sub0 {
+  padding: 0px 0px 5px 1px; 
+}
+.ContainerDiv1Sub1 {
+  padding: 5px 0px 15px 1px; 
+}
+.ContainerDiv1Sub2 {
+  padding: 5px 0px 5px 1px; 
+}
+.ContainerDiv1Sub3 {
+  padding: 70px 70px 50px 1px; 
+}
+
+
+.ContainerDiv2Sub0 {
+  padding: 1px 0px 12px 0px;
+}
+.ContainerDiv2Sub3 {
+  padding: 10px 0px 5px 1px;
+}
+.ContainerDiv2Sub4 {
+  padding: 45px 70px 50px 1px; 
+}
+
+
+.ContainerBtn0 {
+  cursor: pointer;
+  background-color: #0067B8;
+  color: #FFFFFF;
+  border: none;
+  margin-left: 77%;
+  height: 38px;
+  width: 120px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 18px;
+  border-radius: 1px;
+}
+.ContainerBtn0:hover {
+  background-color: #0056b8;
+}
+
+.ContainerBtn2 {
+  cursor: pointer;
+  background-color: #0067B8;
+  color: #FFFFFF;
+  border: none;
+  margin-left: 77%;
+  height: 38px;
+  width: 120px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 18px;
+  border-radius: 1px;
+}
+.ContainerBtn2:hover {
+  background-color: #0056b8;
+}
+
+
+.ContainerPer0 {
+  display: none;
+  color: #E81123;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  width: 22em;
+  margin: 10px 45px 0px 45px;
+}
+.ContainerPer1 {
+  display: none;
+  color: #E81123;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  width: 22em;
+  margin: 10px 45px 10px 45px;
+}
+
+
+.ContainerA0 {
+  font-family: 'Segoe UI', sans-serif;
+  text-decoration: none;
+  margin-left: 45px;
+  font-size: 14px; 
+  opacity: 0.8;
+  color: #0067B8;
+}
+.ContainerA0:hover {
+  text-decoration: underline;
+}
+
+.ContainerA1 {
+  font-family: 'Segoe UI', sans-serif;
+  text-decoration: none;
+  font-size: 17px; 
+  color: #0067B8;
+}
+.ContainerA1:hover {
+  text-decoration: underline;
+}
+
+.ContainerA2 {
+  font-family: 'Segoe UI', sans-serif;
+  text-decoration: none;
+  margin-left: 45px;
+  font-size: 14px; 
+  opacity: 0.8;
+  color: #0067B8;
+}
+.ContainerA2:hover {
+  text-decoration: underline;
+}
+
+
+.ContainerBtn1 {
+  font-size: 15px;
+  opacity: 0.9;
+  margin-left: 50px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+.ContainerBtn1:hover {
+  background-color: #DEDEDE;
+}
+
+
+.ContainerSrc1 {
+  float: right;
+}
+
+
+.ContainerA3 {
+  font-family: 'Segoe UI', sans-serif;
+  text-decoration: none;
+  margin-left: 15px;
+  font-size: 14px; 
+  color: #000;
+  padding: 0 0 10px 0;
+}
+.ContainerA3:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,53 @@
+.main0 {
+  background: rgb(44, 6, 6);
+  background: linear-gradient(0deg, rgb(44, 6, 6) 0%, rgba(0,0,0,1) 40%);
+  min-height: 100vh;
+}
+.main1 {
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  position: absolute;
+  width: 80%;
+  text-align: center;
+}
+.lab1 {
+  margin-bottom: 50px;
+}
+.lab2 {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 30px;
+  color: #ffffff;
+}
+.lab3 {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 18px;
+  color: #6e6e6e;
+}
+.butt0 {
+  opacity: 0;
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  transition: 5s all;
+}
+.butt1 {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  border-image-slice: 1;
+  border-width: 1px; 
+  background: transparent;
+  font-family: monospace;
+  font-size: 10px;
+  margin: 10px;
+  transition: all 1s ease;
+  border-image-source: linear-gradient(to left, #9b0404, #000000);
+  color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  .butt0 {
+    width: 80%;
+  }
+}
